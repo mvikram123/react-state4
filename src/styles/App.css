@@ -1,0 +1,15 @@
+.parent{
+
+
+    width: 400px;
+    height: 250 px;
+    background-color: greenyellow;
+}
+
+
+.child{
+
+    width: 300px;
+    height: 200 px;
+    background-color: brown;
+}
